@@ -1,0 +1,10 @@
+.actions{
+    text-decoration: none;
+    cursor: pointer;
+    padding-left: 50px;
+    color: white;
+    font-size: 25px;
+}
+.actions:hover{
+    color: rgb(0, 200, 255);
+}
